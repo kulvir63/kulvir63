@@ -3,11 +3,13 @@
 
 🌱 I’m currently learning machine learning
 
+🎓 Studying Norquest College
+
 📫 How to reach me: kulvirdhaliwal63@gmail.com
 
 😄 Pronouns: she/her
 
-🎮 I like playing outdoor games like cricket
+Hobby:🏏playing cricket
 
 <!--
 **kulvir63/kulvir63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
