@@ -5,7 +5,7 @@
 
 🎓 Studying Norquest College
 
-📫 How to reach me: kulvirdhaliwal63@gmail.com
+🔗 Connect with me on linkedin: linkedin.com/in/kulvir-kaur-6385a7227
 
 😄 Pronouns: she/her
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: kulvirdhaliwal63@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
